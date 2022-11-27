@@ -2,3 +2,5 @@
 echo "deploy scripts"
 deploy python apps
 deployment5 master
+deploy
+deployment 4
